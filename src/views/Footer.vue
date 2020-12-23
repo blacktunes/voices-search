@@ -19,6 +19,11 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
+a
+  margin-left 5px
+  color #888
+  text-decoration none
+
 .footer
   width 100%
   display flex

@@ -29,14 +29,9 @@ body
   background #fff
   font-family Avenir, Helvetica, Arial, sans-serif
 
-a
-  margin-left 5px
-  color #888
-  text-decoration none
-
 ::-webkit-scrollbar
   width 7px
-  height 7px
+  height 0px
 
 ::-webkit-scrollbar-track
   box-shadow inset 0 0 6px rgba(0, 0, 0, 0.3)
